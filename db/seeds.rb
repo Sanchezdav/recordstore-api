@@ -1,0 +1,8 @@
+Artist.create!(name: "AC/DC")
+Artist.create!(name: "Jimi Hendrix")
+Artist.create!(name: "Alice in Chains")
+Artist.create!(name: "Eminem")
+Artist.create!(name: "50 cent")
+Artist.create!(name: "Three six mafia")
+Artist.create!(name: "Nach")
+Artist.create!(name: "ZPU")
